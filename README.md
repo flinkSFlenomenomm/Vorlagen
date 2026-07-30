@@ -5,7 +5,7 @@
 ***
 ## Inhaltsverzeichnis
   1. Diese [Lese Mich!](README.md) Datei im Markdown Format
-  2. Diese [Inhaltsverzeichnis](INDEX.md) Datei im Markdown Format
+  2. Dieses [Inhaltsverzeichnis](INDEX.md) im Markdown Format
   3. [Markdownsyntax](Markdownsyntax.md) Definiition 
 ***
 ## Markdownsyntax
@@ -73,6 +73,8 @@ Codeblöcke
 > [!TIP]
 > Das ist ein Tip
 
+> [!IMPORTANT]
+> Das ist eine wichtige Ibformation
 
 ```markdown
 
